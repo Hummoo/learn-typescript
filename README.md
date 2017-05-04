@@ -5,4 +5,5 @@ Resources
 
 Note
 > npm install -g typescript
+
 > tsc file.ts
